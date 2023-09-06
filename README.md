@@ -1,7 +1,7 @@
-# RepoName
+# v2rayN
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/v2rayN
 ```
